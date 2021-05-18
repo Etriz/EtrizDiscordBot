@@ -1,8 +1,8 @@
 # Discord Bot
 
-use !!help get a list of commands
--- !!bitcoin - gives current price of bitcoin and ethereum
--- !!next - used to get the next meeting date
--- !!set - sets the next meeting date
+An in progress bot to handle a few personalized commands.
 
-more commands in progress as i want more included utility
+use !!help get a list of commands
+-- !!next - fetchs the next meeting date from the database
+-- !!set next {date} - sets the next meeting date in the database
+-- !!bitcoin - returns the current price of btc, eth, and doge
